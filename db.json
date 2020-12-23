@@ -1,7 +1,7 @@
 {
   "profiles": [{
 "id": 1,
-"mnemonic": "0626162727#Home",
+"mnemonic": "0626162727Home",
 "contactDetails": {
 "firstname": "imad",
 "lastname": "el amraoui",
@@ -14,7 +14,7 @@
 },
 {
 "id": 2,
-"mnemonic": "0662617272#Home",
+"mnemonic": "0662617272Home",
 "contactDetails": {
 "firstname": "imran",
 "lastname": "khadij",
